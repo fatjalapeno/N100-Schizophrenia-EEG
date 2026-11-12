@@ -12,6 +12,7 @@ This project uses the publicly available dataset *EEG Data from Basic Sensory Ta
 The original dataset is licensed under CC BY-NC-SA 4.0. Please consult the original dataset page for its terms of use.
 
 Participant-level data are not included in this repository.
+URL for original dataset: https://www.kaggle.com/datasets/broach/button-tone-sz/data?select=ERPdata.csv
 
 # Analysis
 
