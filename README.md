@@ -1,10 +1,6 @@
 # N100-Schizophrenia-EEG
 R analysis of auditory N100 suppression during self-generated tones in schizophrenia.
 
-# N100 Suppression in Schizophrenia
-
-R-based analysis of auditory N100 suppression during self-generated tones in individuals with schizophrenia and healthy controls.
-
 # Research Question
 
 Does N100 suppression during self-generated tones differ between people with schizophrenia and healthy controls?
