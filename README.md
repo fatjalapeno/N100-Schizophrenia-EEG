@@ -23,9 +23,6 @@ The analysis includes descriptive statistics, visualisations and a mixed-design 
 
 # Software
 - R
-- dplyr
-- tidyr
-- ggplot2
 
 # Repository Structure
 - `ERP analysis.R` – R script for data processing and statistical analysis.
